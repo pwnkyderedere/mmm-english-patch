@@ -35,7 +35,7 @@ You need **your own dump** of the original Japanese disc as an `.iso`:
 1. Open a BPS patcher such as [Floating IPS](https://github.com/Alcaro/Flips) or Multipatch.
 2. Choose `MyMerryMay_EN.bps` and your original `.iso`.
 3. Save the result as a new file (don't overwrite your original).
-4. Expected SHA-1 of the result: `035fc9d64ce51faf3e750432be8ea7f76d70d4a0`
+4. Expected SHA-1 of the result: `4fcbac818fe910d78476afbd467bf347c8c121ff`
 
 ## Playing
 Tested in PCSX2. On a blank memory card the game shows a "system file is missing" message at boot; press ✕ to continue and save system data once from the System Data menu so it stops appearing.
