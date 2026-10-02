@@ -8,7 +8,7 @@ ORIGINAL Japanese disc (apply the patch to this):
 
 PATCHED result:
   size:  1742436352 bytes
-  SHA-1: 586bcfbf34159f5c17c2894ae0e1ea44076cc790
+  SHA-1: 035fc9d64ce51faf3e750432be8ea7f76d70d4a0
 
 PATCH file:
-  MyMerryMay_EN.bps SHA-1: 1bc2c61db7e5831f403cd46080dedc1ecdaec98b
+  MyMerryMay_EN.bps SHA-1: 17d3f2df9e80bdf518e58511dcb718229a1d0f1e
