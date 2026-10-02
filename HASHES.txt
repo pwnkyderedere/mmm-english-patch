@@ -1,0 +1,14 @@
+My Merry May (PS2) English patch - checksums
+
+ORIGINAL Japanese disc (apply the patch to this):
+  size:  1738833920 bytes
+  CRC32: 86616ECF
+  SHA-1: 2f3864821f2a88f86bb5e004f383d63add82bde2
+  MD5:   8bae301ad49c4cea125d08578b16a2a5
+
+PATCHED result:
+  size:  1742436352 bytes
+  SHA-1: 586bcfbf34159f5c17c2894ae0e1ea44076cc790
+
+PATCH file:
+  MyMerryMay_EN.bps SHA-1: 1bc2c61db7e5831f403cd46080dedc1ecdaec98b
