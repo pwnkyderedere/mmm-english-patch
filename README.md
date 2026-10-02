@@ -4,7 +4,7 @@
 
 English fan translation of **My Merry May** (マイ・メリー・メイ), KID, PlayStation 2 (SLPS-25192).
 
-*upload by pwnky* · beta, not fully tested
+*upload by pwnky*
 
 ## What's translated
 - full story
