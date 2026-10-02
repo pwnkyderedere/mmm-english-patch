@@ -20,8 +20,7 @@ English fan translation of **My Merry May** (マイ・メリー・メイ), KID, 
 | | |
 |---|---|
 | ![](images/1-title-menu.png) | ![](images/2-prologue.png) |
-| ![](images/3-cafeteria.png) | ![](images/4-sky.png) |
-| ![](images/5-courtyard.png) | |
+| ![](images/4-sky.png) | ![](images/5-courtyard.png) |
 
 ## How to patch
 You need **your own dump** of the original Japanese disc as an `.iso`:
