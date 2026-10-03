@@ -41,3 +41,5 @@ You need **your own dump** of the original Japanese disc as an `.iso`:
 Tested in PCSX2. On a blank memory card the game shows a "system file is missing" message at boot; press ✕ to continue and save system data once from the System Data menu so it stops appearing.
 
 This repository contains **no game data**, only a patch.
+
+![banner](imagesReu10.png)
