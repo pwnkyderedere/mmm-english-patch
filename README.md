@@ -42,4 +42,4 @@ Tested in PCSX2. On a blank memory card the game shows a "system file is missing
 
 This repository contains **no game data**, only a patch.
 
-![banner](imagesReu10.png)
+![banner](images/Reu10.png)
